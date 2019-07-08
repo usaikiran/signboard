@@ -1,0 +1,4 @@
+no_entry:0
+noleft:1
+noentry:2
+noen:3
